@@ -1,4 +1,4 @@
-# Hello, I'm Sidd!
+# Hello, I'm Siddharth!
 
 
 Welcome to my GitHub profile! Here are a few things about me:
