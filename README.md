@@ -23,10 +23,21 @@ Specialized in Artificial Intelligence and advanced computing technologies.
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
+
 ## My GitHub Stats
 
 ![Sidd's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustCallMeSidd&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JustCallMeSidd&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=JustCallMeSidd&theme=radical)
 
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustCallMeSidd&layout=compact&theme=radical)
+
+## Contribution Graph
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=JustCallMeSidd&theme=radical)
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=JustCallMeSidd&color=blue)
