@@ -28,9 +28,9 @@ Specialized in Artificial Intelligence and advanced computing technologies.
 
 ![Sidd's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustCallMeSidd&show_icons=true&theme=radical)
 ## GitHub Streak
-(https://github-readme-streak-stats.herokuapp.com/?user=JustCallMeSidd&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JustCallMeSidd&theme=radical)
 ## Trophies
-(https://github-profile-trophy.vercel.app/?username=JustCallMeSidd&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=JustCallMeSidd&theme=radical)
 
 ## Top Languages
 
