@@ -16,13 +16,12 @@ Bennett University, Greater Noida, Uttar Pradesh (201310)
 Sep 2022
 Specialized in Artificial Intelligence and advanced computing technologies.
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
+🌱 I’m currently learning AI and technologies.
+👯 I’m looking to collaborate on new AI development.
+🤔 I’m looking for help to broaden my horizon of knowledge.
+💬 Ask me about anything related to ML and AI.
+📫 How to reach me: via email (justcallmesidd@gmail.com) or phone (+91 8318983400).
+⚡ Fun fact: I like to find new video games.
 
 ## My GitHub Stats
 
