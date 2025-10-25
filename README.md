@@ -17,6 +17,7 @@ I enjoy turning research and prototypes into usable apps. My recent work focuses
 **Bennett University** — B.Tech in Computer Science & Engineering (AI & ML)  
 September 2022 – May 2026  
 - GPA: 8.39 / 10
+
 ---
 
 ## Selected Projects
@@ -79,13 +80,13 @@ Aug 2025 – Sep 2025 · [Project Link](https://github.com/JustCallMeSidd/cardio
 
 ---
 
-## Get in touch
-If you want to collaborate, see a demo, or just say hi — email me at justcallmesidd@gmail.com or connect on LinkedIn.
+## Featured GitHub Repositories
+- [tumor-x](https://github.com/JustCallMeSidd/tumor-x) — MRI classification & segmentation with a Streamlit reporting UI.  
+- [canvas-ai](https://github.com/JustCallMeSidd/canvas-ai) — GAN-based sketch-to-image and style-transfer demos.  
+- [ayurvedic-chatbot](https://github.com/JustCallMeSidd/ayurvedic-chatbot) — RAG chatbot for Ayurvedic remedies.  
+- [cardio-care](https://github.com/JustCallMeSidd/cardio-care) — ECG classification and screening Streamlit app.
 
 ---
 
-If you'd like, I can:
-- Replace the placeholder links with your real LinkedIn / LeetCode URLs.  
-- Add GitHub profile-readme widgets (GitHub stats, top languages).  
-- Generate a README that automatically includes pinned project links and images/screenshots.  
-Tell me which changes or links you want added and I’ll update the file.
+## Get in touch
+If you want to collaborate, see a demo, or just say hi — email me at justcallmesidd@gmail.com or connect on LinkedIn.
