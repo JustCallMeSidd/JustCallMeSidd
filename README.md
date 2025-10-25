@@ -17,11 +17,6 @@ I enjoy turning research and prototypes into usable apps. My recent work focuses
 **Bennett University** — B.Tech in Computer Science & Engineering (AI & ML)  
 September 2022 – May 2026  
 - GPA: 8.39 / 10
-
-**City Montessori School**  
-- Class X (ICSE): 76% — March 2018 – July 2019  
-- Class XII (ISC): 81% — March 2020 – July 2021
-
 ---
 
 ## Selected Projects
