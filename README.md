@@ -90,3 +90,9 @@ Aug 2025 – Sep 2025 · [Project Link](https://github.com/JustCallMeSidd/cardio
 
 ## Get in touch
 If you want to collaborate, see a demo, or just say hi — email me at justcallmesidd@gmail.com or connect on LinkedIn.
+
+---
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustCallMeSidd&layout=compact&theme=github_dark)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JustCallMeSidd&show_icons=true&theme=github_dark)
